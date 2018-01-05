@@ -7,6 +7,8 @@
    2.   [linux 文件夹创建与删除](https://github.com/zengxuangithub/linux_command_rm.git)
    
    3    [vim编辑器](https://github.com/zengxuangithub/linux_command_vim.git)
+   
+   4    [Linux_PPA](https://github.com/zengxuangithub/linux_Ubuntu_ppa.git)
    
 - ##  Android
 - ## PHP
