@@ -14,4 +14,6 @@
 - ##  Android
 - ## PHP
 - ## JAVA
+
+   1 [javaEE 目录结构](https://github.com/zengxuangithub/javaEE_directory.git)
 - ## 数据库
