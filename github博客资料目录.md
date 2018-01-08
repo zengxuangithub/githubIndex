@@ -23,4 +23,6 @@
    
    3 [JAVA_WEB_web.xml 配置](https://github.com/zengxuangithub/web_xml_config.git)
    
+   4 [JAVA JSP JDBC 链接数据库](https://github.com/zengxuangithub/jsp_jdbc.git)
+   
 - ## 数据库
