@@ -15,5 +15,7 @@
 - ## PHP
 - ## JAVA
 
-   1 [javaEE 目录结构](https://github.com/zengxuangithub/javaEE_directory.git)
+- ## JAVAEE
+   1 [JAVA WEB 目录结构](https://github.com/zengxuangithub/javaEE_directory.git)
+   2 [JAVA WEB hello wordl](https://github.com/zengxuangithub/java_web_hello_world.git)
 - ## 数据库
