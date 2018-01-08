@@ -21,6 +21,6 @@
    
    2 [JAVA WEB hello wordl](https://github.com/zengxuangithub/java_web_hello_world.git)
    
-   3 [JAVA_WEB_web.xml 配置(https://github.com/zengxuangithub/web_xml_config.git)
+   3 [JAVA_WEB_web.xml 配置](https://github.com/zengxuangithub/web_xml_config.git)
    
 - ## 数据库
