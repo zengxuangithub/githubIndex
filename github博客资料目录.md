@@ -26,5 +26,20 @@
    4 [JAVA JSP JDBC 链接数据库](https://github.com/zengxuangithub/jsp_jdbc.git)
    
    5 [JSP 自定义标签](https://github.com/zengxuangithub/jsp_tag.git)
+   
+   6 [JSP EL表达式](https://github.com/zengxuangithub/jsp_EL.git)
+   
+   7 [jsp 页面的jsp_config配置](https://github.com/zengxuangithub/jsp_config.git)
+   
+   8 [JSP listener](https://github.com/zengxuangithub/jsp_listener.git)
+   
+   9 [JSP url重定向](https://github.com/zengxuangithub/url_rewrite.git)
+   
+   10 [JSP_filter](https://github.com/zengxuangithub/jsp_filter.git)
+   
+   10 [JSP filter 参数](https://github.com/zengxuangithub/jsp_filter_parameter.git)
+   
+   11
+   
    
 - ## 数据库
